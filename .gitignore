@@ -1,0 +1,14 @@
+# patient data (PHI) - never commit
+P1/
+P1_avg/
+*.dcm
+*.IMA
+*.ima
+*.png
+
+# build output / environment
+build/
+dist/
+.venv/
+__pycache__/
+*.pyc
